@@ -1,5 +1,5 @@
 <h1 align="center">About Me</h1>
-<h3 align="center">I'm Ekaterina, a Frontend Developer from St. Petersburg</h3>
+<h3 align="center">I'm Ekaterina and I'm a Frontend developer from St. Petersburg</h3>
 
 <p align="center">
   <a href="https://github.com/ek-ole/ek-ole/blob/main/cv.md">
@@ -33,7 +33,7 @@
 
 <div align="center">
 
-**Frontend & Frameworks**
+**Frontend & Frameworks**    
 ![React](https://img.shields.io/badge/React-9CDAFB?style=flat-square&logo=react&logoColor=white)
 ![Next.js](https://img.shields.io/badge/Next.js-8C8C8C?style=flat-square&logo=next.js&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-4A7BC6?style=flat-square&logo=typescript&logoColor=white)
