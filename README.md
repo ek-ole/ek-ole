@@ -14,7 +14,6 @@
   </a>
 </p>
 
----
 
 <p align="center">
   <a href="mailto:ek_34@mail.ru">
@@ -31,6 +30,8 @@
 ---
 
 ## 🛠 My Tech Stack
+
+<div align="center">
 
 **Frontend & Frameworks**
 ![React](https://img.shields.io/badge/React-9CDAFB?style=flat-square&logo=react&logoColor=white)
@@ -88,7 +89,12 @@
 ![Scrum](https://img.shields.io/badge/Scrum-E8B4D8?style=flat-square&logo=scrum&logoColor=white)
 ![CI/CD](https://img.shields.io/badge/CI/CD-C8A2D8?style=flat-square&logo=githubactions&logoColor=white)
 
+
+</div>
+
 ## 🚀 My Key Projects
+
+<div align="center">
 
 ### 🐾 Pawstman - REST API Client
 [![React](https://img.shields.io/badge/React-9CDAFB?style=flat-square&logo=react&logoColor=white)](https://react.dev/)
@@ -98,7 +104,7 @@
 [![Firebase](https://img.shields.io/badge/Firebase-E8C84A?style=flat-square&logo=firebase&logoColor=black)](https://firebase.google.com/)
 [![Redux](https://img.shields.io/badge/Redux-8A6BC6?style=flat-square&logo=redux&logoColor=white)](https://redux-toolkit.js.org/)
 
-> Lightweight Postman alternative with Monaco Editor, Firebase authentication, and code generation
+_Lightweight Postman alternative with Monaco Editor, Firebase authentication, and code generation_
 
 **My contributions:** Design system, Response Viewer, Body Editor, variables system, routing
 
@@ -112,11 +118,13 @@
 [![shadcn/ui](https://img.shields.io/badge/shadcn/ui-8C8C8C?style=flat-square&logo=react&logoColor=white)](https://ui.shadcn.com/)
 [![Zustand](https://img.shields.io/badge/Zustand-E8B4D8?style=flat-square&logo=react&logoColor=white)](https://zustand-demo.pmnd.rs/)
 
-> Full-featured online store with Commercetools API integration
+_Full-featured online store with Commercetools API integration_
 
 **My contributions:** Authentication, product catalog, shopping cart, responsive UI
 
 [📁 Code](https://github.com/ek-ole/eCommerce-Application) • [🌐 Live Demo](https://poster-store.netlify.app/)
+
+</div>
 
 ---
 
@@ -124,9 +132,9 @@
 
 <div align="center">
 
-![Ekaterina's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ek-ole&show_icons=true&theme=default&hide_border=true&bg_color=45,FFE0F0,F0FFE0&title_color=5D4037&text_color=5D4037&icon_color=9C89B8)
+![Ekaterina's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ek-ole&show_icons=true&hide_border=true&bg_color=45,FFE0F0,F0FFE0&title_color=9C89B8&text_color=5D4037&icon_color=FFAFCC&border_color=9C89B8&include_all_commits=true&count_private=true&custom_title=Ekaterina's%20GitHub%20Stats)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ek-ole&layout=compact&theme=default&hide_border=true&bg_color=45,E0F7FA,FFE0F0&title_color=5D4037&text_color=5D4037)
+![GitHub Streak](https://streak-stats.demolab.com/?user=ek-ole&hide_border=true&background=45%2CFFE0F0%2CF0FFE0&dates=5D4037&ring=9C89B8&fire=FFAFCC&currStreakLabel=9C89B8&stroke=9C89B8)
 
 </div>
 
