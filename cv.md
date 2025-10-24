@@ -66,4 +66,4 @@
 
 ---
 
-[🇷🇺 Russian PDF](/resume.pdf) | [🇬🇧 Download English PDF](/resume-en.pdf)
+[Download Russian PDF](/resume-ru.pdf) | [Download English PDF](/resume-en.pdf)
