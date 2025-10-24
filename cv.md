@@ -66,4 +66,4 @@
 
 ---
 
-[Download Russian PDF](/resume-ru.pdf) | [Download English PDF](/resume-en.pdf)
+[Download Russian PDF](https://raw.githubusercontent.com/ek-ole/ek-ole/main/resume-ru.pdf) | [Download English PDF](https://raw.githubusercontent.com/ek-ole/ek-ole/main/resume-en.pdf)
