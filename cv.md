@@ -30,7 +30,7 @@
 - Developed variables system with value substitution in requests
 - Configured routing and protected routes with authorization checks
 - Implemented loading pages and application state management
-- 
+
 **Tech Stack:** React 19, Next.js 15, TypeScript, Redux Toolkit, Ant Design, Firebase, Monaco Editor
 
 ### 🖼️ PosterShop - E-commerce Platform  
