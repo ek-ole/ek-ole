@@ -19,7 +19,7 @@
 
 ## 💼 Project Experience
 
-### 🐾 Pawstman - REST API Client
+### Pawstman - REST API Client
 [Link Project](https://github.com/ek-ole/rest-client-app)
 *Team Project | React, Next.js, TypeScript, Redux Toolkit, Ant Design, Firebase*
 
@@ -33,7 +33,7 @@
 
 **Tech Stack:** React 19, Next.js 15, TypeScript, Redux Toolkit, Ant Design, Firebase, Monaco Editor
 
-### 🖼️ PosterShop - E-commerce Platform  
+### PosterShop - E-commerce Platform  
 [Link Project](https://github.com/ek-ole/eCommerce-Application)
 *Team Project | React, TypeScript, Vite, Zustand, Tailwind CSS, Commercetools*
 
@@ -51,6 +51,9 @@
 
 ## 🎓 Education & Certifications
 
+**RS School** | Node JS  
+*2025* | [Certificate](https://app.rs.school/certificate/p4xp5p9i) 
+
 **RS School** | React Course  
 *2025* | [Certificate](https://app.rs.school/certificate/m7232azy)  
 
@@ -59,7 +62,7 @@
 
 ---
 
-## 🗣️ Languages
+## Languages
 
 - **Russian:** Native
 - **English:** B1 (Intermediate) - Technical documentation reading, working with English documentation
