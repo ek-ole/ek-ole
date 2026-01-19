@@ -143,7 +143,8 @@ _Full-featured online store with Commercetools API integration_
 ## 🏆 Certifications
 
 <div align="center">
-
+  
+[![RS School NodeJS](https://img.shields.io/badge/RS_School-Node_JS-6BA36B?style=for-the-badge&logo=react&logoColor=white)](https://app.rs.school/certificate/p4xp5p9i)
 [![RS School React](https://img.shields.io/badge/RS_School-React_Course-FFAFCC?style=for-the-badge&logo=react&logoColor=white)](https://app.rs.school/certificate/m7232azy)
 [![RS School JS](https://img.shields.io/badge/RS_School-JS/Frontend-A2D2FF?style=for-the-badge&logo=javascript&logoColor=white)](https://app.rs.school/certificate/8k8vhlyz)
 
